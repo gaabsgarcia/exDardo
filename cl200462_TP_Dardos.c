@@ -24,7 +24,7 @@ int main()
   r= x+y;
   r= sqrt(r);
 
-  printf("Temos quatro possibilidades de pontuação:/n "
+  printf("Temos quatro possibilidades de pontuação:\n "
          "1º O dardo não atingir alvo (0 pontos);\n"
          "2º O dardo atingir o alvo externo (1 pontos);\n"
          "3º O dardo atingir o alvo central (5 pontos);\n"
